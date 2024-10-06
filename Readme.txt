@@ -1,1 +1,1 @@
-este es un readme predeterminado
+Repositorio para LP2
